@@ -1,5 +1,7 @@
 #### Bonvin Lab webpage based on the Jekyll template [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)
 
+[![Join the chat at https://gitter.im/Adrimel/haddocking.github.io](https://badges.gitter.im/Adrimel/haddocking.github.io.svg)](https://gitter.im/Adrimel/haddocking.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 See a [live version of this website](http://haddocking.github.io/) hosted on GitHub.
 For more information on the template and folder organization, visit the [original author's
 web page](http://mmistakes.github.io/minimal-mistakes/theme-setup/).
